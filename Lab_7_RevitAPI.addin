@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\Lab_7_RevitAPI.dll"</Assembly>
+    <AddInId>728055BB-62B5-4C4B-81F2-9D4C2FCEDD74</AddInId>
+    <FullClassName>Lab_7_RevitAPI.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Создание листов</Text>
+  </AddIn>
+</RevitAddIns>
